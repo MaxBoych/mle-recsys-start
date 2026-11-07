@@ -1,0 +1,12 @@
+catboost==1.2.10
+fastapi==0.162.0
+implicit==0.7.3
+lightfm-next==1.19.0
+pandas==2.3.3
+jupyterlab
+pyarrow==26.0.0
+requests==2.34.2
+scikit-learn==1.6.1
+scikit-surprise==1.1.5
+seaborn==0.13.2
+uvicorn==0.54.0
